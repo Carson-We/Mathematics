@@ -1,0 +1,4 @@
+3.141592653
+
+Time taken: 0.0003657341003417969 seconds
+Calculated pi value up to 10 decimal places.
